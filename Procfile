@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run --server.enableCORS false lancement_programme_v0.py
+web: sh setup.sh && streamlit run --server.enableCORS false app.py
